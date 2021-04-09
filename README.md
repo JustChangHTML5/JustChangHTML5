@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Git and Java
 - 💞️ I’m looking to collaborate on replit.com or Pycharm
-- 📫 How to reach me replit.com with the username IvanChang111
+- 📫 How to reach me: replit.com with the username IvanChang111
 
 <!---
 JustChangHTML5/JustChangHTML5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
